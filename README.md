@@ -1,1 +1,4 @@
 # praktikum6
+
+#flowchart
+
