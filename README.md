@@ -1,1 +1,1 @@
-# praktikum-6
+# praktikum6
