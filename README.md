@@ -215,7 +215,7 @@ Program ini mendemonstrasikan operasi dasar pada dictionary Python:
 
 # HASIL CODINGAN 2
 
-![Cuplikan layar 2024-11-15 151808](https://github.com/user-attachments/assets/b997ec25-e97a-4520-ab78-4bf09c388e8f)
+![Cuplikan layar 2024-11-24 234506](https://github.com/user-attachments/assets/adb6a5a8-d536-48fa-9c62-b5d8add41c88)
 
 # Penjelasan 
 
