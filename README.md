@@ -215,3 +215,51 @@ Program ini mendemonstrasikan operasi dasar pada dictionary Python:
 
 # HASIL CODINGAN 2
 
+![Cuplikan layar 2024-11-15 151808](https://github.com/user-attachments/assets/b997ec25-e97a-4520-ab78-4bf09c388e8f)
+
+# Penjelasan 
+
+Berikut adalah ringkasan ulang program manajemen data mahasiswa:  
+
+1.Menu Utama:  
+   Program dimulai dengan menampilkan pilihan berikut:  
+   - Lihat data mahasiswa: Menampilkan daftar mahasiswa yang ada.  
+   - Tambah data mahasiswa: Menambahkan informasi mahasiswa baru.  
+   - Ubah data mahasiswa: Memperbarui informasi mahasiswa tertentu.  
+   - Hapus data mahasiswa: Menghapus data mahasiswa berdasarkan NIM.  
+   - Cari data mahasiswa: Mencari data mahasiswa dengan NIM tertentu.  
+   - Keluar: Mengakhiri program.  
+
+2. Lihat Data Mahasiswa:  
+   Jika pengguna memilih opsi ini, program akan menampilkan daftar mahasiswa. Jika tidak ada data, program akan menampilkan pesan "TIDAK ADA DATA".  
+
+3. Tambah Data Mahasiswa:  
+   - Program meminta pengguna memasukkan NIM.  
+   - Jika NIM sudah ada, program akan memberi pesan "DATA SUDAH ADA".  
+   - Jika NIM belum ada, program meminta pengguna mengisi data tambahan seperti nama, nilai tugas, nilai UTS, dan nilai UAS.  
+   - Program akan menghitung nilai akhir dan menyimpan data tersebut.  
+
+4. Ubah Data Mahasiswa:  
+   - Pengguna diminta memasukkan NIM mahasiswa yang ingin diperbarui.  
+   - Jika NIM ditemukan, program meminta pengguna mengedit data seperti nama, nilai tugas, nilai UTS, dan nilai UAS.  
+   - Program akan menghitung ulang nilai akhir dan menyimpan perubahan.  
+
+5. Hapus Data Mahasiswa:  
+   - Pengguna diminta memasukkan NIM mahasiswa yang ingin dihapus.  
+   - Jika NIM ditemukan, data akan dihapus dari database.  
+
+6. Cari Data Mahasiswa:  
+   - Pengguna diminta memasukkan NIM mahasiswa yang ingin dicari.  
+   - Jika NIM ditemukan, program akan menampilkan informasi mahasiswa.  
+   - Jika tidak ditemukan, program akan memberi pesan "DATA TIDAK DITEMUKAN".  
+
+7. Keluar:  
+   Program akan berhenti ketika opsi ini dipilih.  
+
+Informasi Tambahan:  
+- Input NIM: Digunakan untuk memasukkan NIM mahasiswa.  
+- Pengecekan Data: Program memastikan apakah NIM sudah ada atau belum.  
+- Tampilkan Data: Data mahasiswa akan ditampilkan di layar.  
+- Input Informasi Tambahan: Pengguna akan mengisi nama, nilai tugas, nilai UTS, dan nilai UAS.  
+- Hitung Nilai Akhir: Program menghitung nilai akhir berdasarkan data yang dimasukkan.  
+- Simpan atau Hapus: Data akan disimpan atau dihapus sesuai perintah pengguna.
